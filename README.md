@@ -1,5 +1,6 @@
 # Credit-Risk-Assessment-Model-with-Basel-III-Integration
 
+```
 credit-risk-basel-iii/
 ├── README.md                         # Project documentation
 ├── data/                             # Data directory
@@ -34,3 +35,4 @@ credit-risk-basel-iii/
 │   └── components/                   # Dashboard components
 ├── requirements.txt                  # Project dependencies
 └── setup.py                          # Package installation script
+```
